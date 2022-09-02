@@ -707,6 +707,7 @@ svg.bi-github:hover {
 
     .menu-resp {
         opacity: 0;
+        display: none;
 
     }
 
