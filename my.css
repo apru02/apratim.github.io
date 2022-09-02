@@ -858,9 +858,9 @@ svg.bi-github:hover {
 @media only screen and (max-width: 510px){
     #logo img {
         position: relative;
-        height: 123px;
-        width: 246px;
-        margin-top: 13px;
+        height: 117px;
+        width: 236px;
+        margin-top: 7px;
 }
 .burger {
     top: 44px;
