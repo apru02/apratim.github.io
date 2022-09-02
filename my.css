@@ -691,6 +691,8 @@ svg.bi-github:hover {
     }
 
     .navigation {
+        display: block;
+        display: flex;
         flex-direction: column;
         position: relative;
         text-align: center;
